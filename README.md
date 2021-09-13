@@ -58,7 +58,7 @@ $ pip(3) install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python3 -m TamilBots
+$ python3 -m phantom bots
 ```
 
 </details>
@@ -103,7 +103,7 @@ $ python3 -m TamilBots
 ### Commands for Group 👥
 #### For all in group
 
-- `/play <song name>` - play song you requested
+- `/play <song name>` - play song you requested 
 - `/play <reply to audio>` - play replied file
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
@@ -118,9 +118,9 @@ $ python3 -m TamilBots
 
 ### Admins only 🏅
 - `/player` - open music player settings panel
-- `/pause` - pause song play
+- `/pause` - pause song play 😪
 - `/resume` - resume song play
-- `/skip` - play next song
+- `/skip` - play next song 😪
 - `/end` - stop music play
 - `/join` - invite assistant to your chat
 - `/leave` - remove assistant from your chat
@@ -146,7 +146,7 @@ $ python3 -m TamilBots
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@TamiliniBot](https://t.me/TamiliniBot) as Channel admin with full perms
+ 3. Add  @phantombotsupport_11 and me in your channel as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -162,7 +162,7 @@ If you donlt like to play in linked channel:
 
 </details>
 
-## Made with ❤️ By @TamilBots
+## Made with ❤️ By  @phantombotsupport_11
 
 ### Credits
 #### Special Credits
